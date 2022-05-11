@@ -1,2 +1,2 @@
 # assessment-frontend
-Both of the assessments 
+Both assessments 
